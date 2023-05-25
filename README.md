@@ -1,4 +1,4 @@
-PROJECT: chainmaster.io
+PROJECT: rewardminer.io
 </br>
 </br>
 
